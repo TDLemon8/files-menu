@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema
+    id="org.gnome.shell.extensions.files-menu-2"
+    path="/org/gnome/shell/extensions/files-menu-2/">
+
+    <key type="b" name="separate-files-folders">
+      <default>true</default>
+      <summary>Defines if folders are shown before files</summary>
+      <description/>
+    </key>
+  </schema>
+</schemalist>
